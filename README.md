@@ -1,2 +1,2 @@
 # ecohramonogram
-pobiera dane z echharmony i transformuje do kalendarza
+pobiera dane z ecoharmony i transformuje do kalendarza
