@@ -1,5 +1,5 @@
 # ecohramonogram
-pobiera dane z ecoharmony i transformuje do kalendarza [https://ecoharmonogram.pl/](link)
+pobiera dane z ecoharmony i transformuje do kalendarza [LINK]([link](https://ecoharmonogram.pl/))
 
 Wiem ze aplikacja pozwala podpiac dane do kalendarza ale mam ochote wykorzystac mechanim ładownia do HomeAssistante i magicmirror
 
