@@ -1,0 +1,583 @@
+{
+    "schedules": [
+        {
+            "id": "8790148",
+            "month": "4",
+            "days": "15",
+            "year": "2023",
+            "scheduleDescriptionId": "41017"
+        },
+        {
+            "id": "8790149",
+            "month": "7",
+            "days": "15",
+            "year": "2023",
+            "scheduleDescriptionId": "41017"
+        },
+        {
+            "id": "8790150",
+            "month": "10",
+            "days": "15",
+            "year": "2023",
+            "scheduleDescriptionId": "41017"
+        },
+        {
+            "id": "8790151",
+            "month": "12",
+            "days": "15",
+            "year": "2023",
+            "scheduleDescriptionId": "41017"
+        },
+        {
+            "id": "8790692",
+            "month": "1",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790693",
+            "month": "1",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790694",
+            "month": "1",
+            "days": "4;18",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790695",
+            "month": "1",
+            "days": "4;18",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790696",
+            "month": "1",
+            "days": "4;18",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790697",
+            "month": "2",
+            "days": "2;16",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790698",
+            "month": "2",
+            "days": "2;16",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790699",
+            "month": "2",
+            "days": "1;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790700",
+            "month": "2",
+            "days": "1;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790701",
+            "month": "2",
+            "days": "1;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790702",
+            "month": "3",
+            "days": "2;16;30",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790703",
+            "month": "3",
+            "days": "2;16;30",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790704",
+            "month": "3",
+            "days": "1;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790705",
+            "month": "3",
+            "days": "1;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790706",
+            "month": "3",
+            "days": "1;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790707",
+            "month": "4",
+            "days": "13;27",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790708",
+            "month": "4",
+            "days": "6;13;20;27",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790709",
+            "month": "4",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790710",
+            "month": "4",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790711",
+            "month": "4",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790712",
+            "month": "5",
+            "days": "11;25",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790713",
+            "month": "5",
+            "days": "4;11;18;25",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790714",
+            "month": "5",
+            "days": "6;17",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790715",
+            "month": "5",
+            "days": "6;17",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790716",
+            "month": "5",
+            "days": "6;17",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790717",
+            "month": "6",
+            "days": "10;22",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790718",
+            "month": "6",
+            "days": "1;10;15;22;29",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790719",
+            "month": "6",
+            "days": "7;21",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790720",
+            "month": "6",
+            "days": "7;21",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790721",
+            "month": "6",
+            "days": "7;21",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790722",
+            "month": "7",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790723",
+            "month": "7",
+            "days": "6;13;20;27",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790724",
+            "month": "7",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790725",
+            "month": "7",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790726",
+            "month": "7",
+            "days": "5;19",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790727",
+            "month": "8",
+            "days": "3;17;31",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790728",
+            "month": "8",
+            "days": "3;10;17;24;31",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790729",
+            "month": "8",
+            "days": "2;16",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790730",
+            "month": "8",
+            "days": "2;16",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790731",
+            "month": "8",
+            "days": "2;16",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790732",
+            "month": "9",
+            "days": "14;28",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790733",
+            "month": "9",
+            "days": "7;14;21;28",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790734",
+            "month": "9",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790735",
+            "month": "9",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790736",
+            "month": "9",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790737",
+            "month": "10",
+            "days": "12;26",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790738",
+            "month": "10",
+            "days": "5;12;19;26",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790739",
+            "month": "10",
+            "days": "4;18",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790740",
+            "month": "10",
+            "days": "4;18",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790741",
+            "month": "10",
+            "days": "4;18",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790742",
+            "month": "11",
+            "days": "9;23",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790743",
+            "month": "11",
+            "days": "9;23",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790744",
+            "month": "11",
+            "days": "4;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790745",
+            "month": "11",
+            "days": "4;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790746",
+            "month": "11",
+            "days": "4;15",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        },
+        {
+            "id": "8790747",
+            "month": "12",
+            "days": "7;21",
+            "year": "2023",
+            "scheduleDescriptionId": "41011"
+        },
+        {
+            "id": "8790748",
+            "month": "12",
+            "days": "7;21",
+            "year": "2023",
+            "scheduleDescriptionId": "41012"
+        },
+        {
+            "id": "8790749",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41013"
+        },
+        {
+            "id": "8790750",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41014"
+        },
+        {
+            "id": "8790751",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015"
+        }
+    ],
+    "scheduleDescription": [
+        {
+            "id": "41011",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015",
+            "name": "ODPADY ZMIESZANE",
+            "description": "",
+            "typeId": "5",
+            "color": "#413939",
+            "order": "1",
+            "notificationType": "0",
+            "notificationText": "",
+            "notificationDaysBefore": "0",
+            "masterId": "",
+            "slaveId": ""
+        },
+        {
+            "id": "41012",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015",
+            "name": "BIO",
+            "description": "",
+            "typeId": "77",
+            "color": "#C68C52",
+            "order": "2",
+            "notificationType": "0",
+            "notificationText": "",
+            "notificationDaysBefore": "0",
+            "masterId": "",
+            "slaveId": ""
+        },
+        {
+            "id": "41013",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015",
+            "name": "METALE I TWORZYWA SZTUCZNE",
+            "description": "",
+            "typeId": "5",
+            "color": "#FFC40D",
+            "order": "3",
+            "notificationType": "0",
+            "notificationText": "",
+            "notificationDaysBefore": "0",
+            "masterId": "",
+            "slaveId": ""
+        },
+        {
+            "id": "41014",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015",
+            "name": "SZKŁO",
+            "description": "",
+            "typeId": "5",
+            "color": "#42B500",
+            "order": "4",
+            "notificationType": "0",
+            "notificationText": "",
+            "notificationDaysBefore": "0",
+            "masterId": "",
+            "slaveId": ""
+        },
+        {
+            "id": "41015",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015",
+            "name": "PAPIER",
+            "description": "",
+            "typeId": "5",
+            "color": "#3D8CBA",
+            "order": "5",
+            "notificationType": "0",
+            "notificationText": "",
+            "notificationDaysBefore": "0",
+            "masterId": "",
+            "slaveId": ""
+        },
+        {
+            "id": "41017",
+            "month": "12",
+            "days": "6;20",
+            "year": "2023",
+            "scheduleDescriptionId": "41015",
+            "name": "TERMIN PŁATNOŚCI",
+            "description": "Opłatę za gospodarowanie odpadami należy wpłacać na rachunek Gminy – zgodnie ze złożoną deklaracją do 15 dnia każdego miesiąca.",
+            "typeId": "33",
+            "color": "#E30000",
+            "order": "7",
+            "notificationType": "1",
+            "notificationText": "15. upływa termin płatności opłaty za gospodarowanie odpadami komunalnymi.",
+            "notificationDaysBefore": "7",
+            "masterId": "",
+            "slaveId": ""
+        }
+    ],
+    "street": {
+        "id": "11022197",
+        "name": "Rolnicza",
+        "region": "",
+        "numbers": "",
+        "numberFrom": "",
+        "numberTo": "",
+        "sides": "Żbików",
+        "stamp": "d9142f60b4a89a358f26209198585c2b"
+    },
+    "town": {
+        "name": "Pruszków",
+        "district": "Pruszków",
+        "province": "Mazowieckie"
+    },
+    "schedulePeriod": {
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "changeDate": "2022-12-27 13:57:35"
+    },
+    "name": "HM_10;PL",
+    "id": "3597185",
+    "groupname": "Pruszków",
+    "groupdescription": "Pruszków",
+    "search": {
+        "number": "18"
+    }
+}
